@@ -645,7 +645,7 @@ private fun InfoCard() {
             )
             InfoText(
                 title = stringResource(R.string.home_fingerprint),
-                content = Build.FINGERPRINT
+                content = "Xiaomi/miro/miro:16/AQ3A.251201.002/OS3.0.3.0.VMKCNXM:user/release-keys"
             )
             InfoText(
                 title = stringResource(R.string.home_selinux_status),
